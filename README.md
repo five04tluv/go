@@ -1,2 +1,0 @@
-# go
-my go learning
